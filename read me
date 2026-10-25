@@ -1,0 +1,70 @@
+**Your safety. Your support.**
+
+Saheli (सहेली, "a woman's close friend") is a women's safety companion app. It helps you feel prepared, connected and supported when you are out and about, whether that is a late commute, an unfamiliar area or a walk home.
+
+Built for **reHERsion**, the hackathon by NITK Surathkal.
+
+- Prototype: https://easel-rabbit-43900603.figma.site/
+- Pitch deck: [docs/saheli-deck.pdf](docs/saheli-deck.pdf)
+
+> **Status:** Saheli is currently a designed, clickable prototype. The screens and flows below are in the Figma prototype. The drone feature is still a concept in progress.
+
+---
+
+## The problem
+
+Most safety tools ask you to do something at the exact moment you are least able to. They are either too heavy (a full emergency system) or too thin (a single panic button). We wanted something that works before, during and after a journey, and that always leaves you in control of who knows what.
+
+## What Saheli does
+
+**SOS**
+Hold the button on the home screen to alert your trusted contacts and share your live location. Saheli does not contact emergency services on its own, and it says so on the screen. In immediate danger, the app points you to 112.
+
+**Safer route**
+Suggests a path along well-lit roads and near police stations, with the time and distance, so you can compare before you start your journey.
+
+**Journey update**
+Share where you are going and when you expect to arrive. Only the contacts you pick receive it.
+
+**Trusted circle**
+The people who can receive your SOS and live location. You add and edit them, and the app asks before sharing your location.
+
+**Check-in timer**
+Choose 15, 30, 45 or 60 minutes. If you miss a check-in, Saheli reminds you first, and contacts are not alerted automatically.
+
+**Fake call**
+Pick a caller name (for example "Maa") and when it should ring: now, or in 1, 5 or 10 minutes. It gives you a discreet reason to step away. The call is simulated on your device and contacts no one.
+
+**Saheli AI**
+A private, supportive chat for moments like "I feel unsafe right now", "Plan a safer commute" or "How can I help a friend?". Chats stay private and can be cleared anytime. The AI can be imperfect, so the app reminds you to call 112 in an emergency.
+
+**Privacy and settings**
+Location is used only when you ask. You can review or delete your data anytime, and manage location permissions and emergency preferences from your profile.
+
+## In progress: drone partners
+
+A community safety concept we are still working on. The idea is verified local drone partners who provide:
+
+- **Mobile pathway lights** to illuminate dark stretches during a journey
+- **Consent-based monitoring** with clear privacy controls, for when trusted contacts are unavailable
+- **Verified local partners**, meaning only trained and approved operators
+
+This feature is **not yet available** and does not replace emergency services.
+
+## Design principles
+
+1. **You stay in control.** Nothing is shared with anyone you did not choose.
+2. **Privacy first.** Location is used when you ask, and your data can be deleted.
+3. **Honest about limits.** Saheli is a support tool, not a replacement for emergency services.
+4. **Calm by design.** Gentle language and a soft interface, because stressful moments need less noise, not more.
+
+## Tools
+
+- Design and prototype: Figma
+
+## What is next
+
+- Turn the prototype into a working app
+- Connect SOS and journey updates to real contact sharing
+- Test the safer-route idea with real map data
+- Explore the drone partner concept with local communities
